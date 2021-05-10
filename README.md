@@ -24,4 +24,4 @@ Offres IzariaEmbed:
 *   [Github](https://github.com/Unknown-user-dev)
 
 ## Screens
-<img alt="IzariaEmbed" src="![image](https://user-images.githubusercontent.com/69392977/117735665-338ecd80-b1f6-11eb-9f91-c75bf2d0d5fb.png)"><br>  
+<img alt="IzariaEmbed" src="https://user-images.githubusercontent.com/69392977/117735665-338ecd80-b1f6-11eb-9f91-c75bf2d0d5fb.png"><br>  
