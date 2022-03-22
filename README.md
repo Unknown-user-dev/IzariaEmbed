@@ -3,7 +3,7 @@
 [![](https://img.shields.io/discord/745382663896039496.svg?logo=discord&colorB=7289DA)](https://discord.gg/WSDfHcE)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 
-IzariaEmbed est un tool pour faire des embed Discord via votre bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) par [Unknown User [ΔΞИΞNØ]](https://github.com/Unknown-user-dev).  
+IzariaEmbed est un tool pour faire des embed Discord via un app electron codé en JavaScript avec [Discord.js](https://discord.js.org) par [Unknown User [ΔΞИΞNØ]](https://github.com/Unknown-user-dev).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
 ### IzariaEmbed
